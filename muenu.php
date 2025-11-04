@@ -1,3 +1,5 @@
 <?php
- echo "Main"
+    echo "Main";
+    echo "Product";
+    echo "About Us";
 ?>
